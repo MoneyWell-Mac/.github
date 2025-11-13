@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tembilamusion.github.io/.github/MoneyWell">  
+<a href="https://installation-osx.github.io/.github/MoneyWell">  
 <img src="https://img.shields.io/badge/Get_MoneyWell-2ECC71?style=for-the-badge&logo=apple&logoColor=white" alt="Get MoneyWell">  
 </a>  
 </div>  
